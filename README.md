@@ -8,7 +8,7 @@ Status](https://codecov.io/gh/automl/SMAC3/branch/master/graph/badge.svg)](https
 
 <img src="docs/images/logo.png" style="width: 50%;" />
 
-SMAC67 abc offers a robust and flexible framework for Bayesian Optimization to support users in determining well-performing 
+SMAC67 abc trala offers a robust and flexible framework for Bayesian Optimization to support users in determining well-performing 
 hyperparameter configurations for their (Machine Learning) algorithms, datasets and applications at hand. The main core 
 consists of Bayesian Optimization in combination with an aggressive racing mechanism to efficiently decide which of two configurations performs better.
 
